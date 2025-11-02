@@ -17,7 +17,7 @@ Key functionalities include:
 - Statistical computation of average waiting and service times
 - Logging and performance reporting
 
-## Technologies Used
+# Technologies Used
 - **Java 17** (compatible with Java 11+)
 - **Swing** for GUI
 - **Multithreading** (`Thread`, `Runnable`)
@@ -25,7 +25,7 @@ Key functionalities include:
 - **Collections Framework** (`BlockingQueue`, `ArrayList`)
 - **OOP principles** and **MVC design**
 
-## Simulation Logic
+# Simulation Logic
 
 - The application generates a configurable number of **clients**, each with:
   - **arrival time**
@@ -38,8 +38,7 @@ Key functionalities include:
   - GUI reflects current states
   - Waiting and service times are recalculated
 
-
-## Graphical User Interface
+# Graphical User Interface
 
 - **Swing-based GUI** allows setting:
   - Number of queues
